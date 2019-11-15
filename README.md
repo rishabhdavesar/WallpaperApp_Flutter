@@ -1,6 +1,6 @@
-# wallpaper_app
+# Beautiful and Satisfying Wallpaper App with Animations FLUTTER
 
-A new Flutter project.
+
 
 ## Getting Started
 
